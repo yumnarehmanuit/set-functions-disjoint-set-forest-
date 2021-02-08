@@ -1,3 +1,9 @@
-project name :  set-functions-disjoint-set-forest-
-group no. : 21
-roll number :  19b-123-cs and 19b-002-cs
+#  set-functions-disjoint-set-forest-
+
+Project for Data Structures and Algorithms Semester 3.
+
+
+## Roll numbers 
+
+- Yumna rehman 19b-123-cs 
+- Moiz Ahmed somoro 19b-002-cs
