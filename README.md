@@ -1,4 +1,4 @@
-#  set-functions-disjoint-set-forest-
+#  set-functions-disjoint-set-forest
 
 Project for Data Structures and Algorithms Semester 3.
 
